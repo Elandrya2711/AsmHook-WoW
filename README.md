@@ -4,10 +4,10 @@ This project was originally developed in 2015/2016 and has now been reuploaded t
 
 ## Interesting Classes
 
-- **D3SHook.cs**  
+- **[D3DHook.cs](Hooks/D3DHook.cs)**
   Executing Assembly code by manually hooking into the D3D render function and looping to execute all needed commands in one frame.
 
-- **GameObject.cs**  
+- **[GameObject.cs](WoWObjects/GameObject.cs)**
   Reading properties from game memory and interacting with objects using in-game APIs and Assembly.
 
 ## Disclaimer
